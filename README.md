@@ -1,6 +1,6 @@
 # UTF-8じゃないの？Pythonの文字列処理で火傷を防ぐ
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/BytePos/blob/main/BytePos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/BytePos/blob/main/BytePos.ipynb)
 
 皆さんはPythonでUTF8の文字列のバイト位置を知りたいと思ったことありませんか。私はあります。DBから取得したデータがUTF8でそれを変換せずに直接処理したいことがあったからです。
 
